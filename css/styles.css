@@ -4,9 +4,10 @@ img {
   height: auto;
 }
 
-main {
-  float: left;
-  margin-left: 10px;
+.main {
+  margin: 40px;
+  border: 4px;
+  padding: 8px,  
 }
 
 p {color: #5D4083}
