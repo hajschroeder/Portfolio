@@ -2,8 +2,6 @@ img {
   float: right;
   width: 300px;
   height: auto;
-
-
 }
 
 main {
@@ -12,3 +10,10 @@ main {
 }
 
 p {color: #5D4083}
+
+.highlight {
+  color:#790505;
+}
+
+.class {whynot
+}
