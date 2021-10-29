@@ -21,6 +21,9 @@ _This html page is the portfolio and intial independent assignment for Hans Schr
 * Navigate to the top level of the directory
 * Open index.html in your browser
 
+## The Project
+[Click Here](https://hajschroeder.github.io/Portfolio/) to view my project in GitHub Pages
+
 ## Known Bugs 
 * None as of now
 
