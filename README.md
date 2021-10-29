@@ -1,6 +1,8 @@
 # _Hans' Portfolio as index.html_ #
 
-### By Hans Schroeder
+### Contributer(s)
+
+* Hans Schroeder
 
 ## Technologies used
 
@@ -15,6 +17,9 @@ _This html page is the portfolio and intial independent assignment for Hans Schr
 ## Setup/Installation
 * All you need to view this site portfolio is an internet connected device
 * As a public repository, a GitHub account is not required but it is recommended
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open index.html in your browser
 
 ## Known Bugs 
 * None as of now
