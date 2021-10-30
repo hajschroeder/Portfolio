@@ -10,10 +10,11 @@ img {
   padding: 8px,  
 }
 
-p {color:
+p {
+  color:
    #5D4083;
     text-indent: 15px;
-  }
+}
 
 .highlight {
   color:#790505;
@@ -21,10 +22,11 @@ p {color:
 
 .whynot {
   color: #177a35;
-
+  font-family: 'Courier New';
+  font-weight: bold;
 }
 
-.list{
+.list {
   width: 50%;
   border-width: 1px;
   background-color: #85c0b1;

@@ -10,9 +10,10 @@
 * GitBash and Github
 * VS Code
 * Windows 10
+* BootStrap
 
 ## Decription 
-_This html page is the portfolio and intial independent assignment for Hans Schroeder. It will grow as his skills develop and more projects are added_
+_This html page is the portfolio and intial Code Review for Hans Schroeder. It will grow as his skills develop and more projects are added_
 
 ## Setup/Installation
 * Clone this repository to your desktop
